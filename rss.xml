@@ -1,0 +1,17 @@
+<rss version="2.0" encoding="UTF-8">
+	<channel>
+		<title>Healthy Food Deki</title>
+		<link>https://dejan157.github.io/healthyfooddeki/index.html</link>
+		<description>Everything about your favorite healthy food market right here!</description>
+		<item>
+			<title>Our products</title>
+			<link>https://dejan157.github.io/healthyfooddeki/products.html</link>
+			<description>New products is out now!</description>
+		</item>
+		<item>
+			<title>New information about us</title>
+			<link>https://dejan157.github.io/healthyfooddeki/contact.html</link>
+			<description>You can find us here.</description>
+		</item>
+	</channel>
+</rss>
